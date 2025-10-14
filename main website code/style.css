@@ -1,6 +1,5 @@
 body{
   font-family:sans-serif, comic sans ms;
-
 }
 .navbar{ 
   align-items: center;
@@ -9,7 +8,10 @@ body{
   background: black;
   color: white;
   padding: 15px;
-
+  border-radius: 1rem;
+}
+.navbar h1{
+  color:rgb(255, 255, 255);
 }
 nav ul{
   display:flex;
