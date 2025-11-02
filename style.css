@@ -35,3 +35,6 @@ nav a{
 nav a:hover{
   color:rgb(218, 218, 218);
 }
+#PictureSpace{
+  background-image: url('pictures/Space1.jpg');
+}
