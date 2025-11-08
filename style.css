@@ -11,10 +11,14 @@ body{
   align-items: center;
   display: flex;
   justify-content: space-between;
-  background: black;
+  background: transparent;
+  border: 2px solid rgb(218, 218, 218);
+  backdrop-filter: blur(2px);
   color: rgb(255, 255, 255);
   height: 80px;
   padding: 0 30px;
+  border-radius: 1rem;
+
 }
 .navbar h1{
   color:rgb(255, 255, 255);
