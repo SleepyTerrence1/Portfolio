@@ -1,5 +1,5 @@
 # Portfolio
-Welcome to my digital playground — also known as my GitHub Portfolio! This site is a curated showcase of my coding adventures, creative experiments, and the occasional "oops, that broke everything" moment (don't worry, I fixed it… eventually).
+Welcome to my digital playground — also known as my GitHub Portfolio! This site is a curated showcase of my coding adventures, creative experiments, and the occasional "oops, that broke everything" moment (don't worry, I fixed it… eventually)
 Here you'll find:
 - 🛠️ Projects that reflect my skills in Frontend coding like HTML and CSS, along with backends like JS, Java, python, etc!
 - 📚 Code samples that are clean, readable, and occasionally sprinkled with comments that may or may not include dad jokes.
