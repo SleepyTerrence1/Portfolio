@@ -5,3 +5,7 @@ Here you'll find:
 - 📚 Code samples that are clean, readable, occasionally... haha, thats my bad
 - 🚀 Ideas in motion — prototypes, passion projects, and proof-of-concepts that might one day change the world… or at least make someone smile.
 Whether you're a recruiter, collaborator, or just someone who clicked the wrong link and ended up here — I'm glad you stopped by. Feel free to explore, fork, star, or just admire from a safe distance. And if you like what you see, let's connect!
+
+# Features
+- PLACEHOLDER 1
+
