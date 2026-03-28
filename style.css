@@ -6,8 +6,48 @@ body{
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: fixed;
+  margin: 0px;
+  padding: 0px;
 
 }
+#LogoText{
+  color:rgb(255, 255, 255);
+  font-weight: bold;
+  margin-left:10rem;
+}
+.navbar {
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+  background: transparent;
+  backdrop-filter: blur(15px);
+  border-bottom: 1px solid white;
+  box-shadow: 0 0 10px white;
+}
+nav ul{
+  display:flex;
+  justify-content: space-between;
+  list-style: none;
+  border-radius: 30px;
+  border: 1px solid;
+  color: white;
+  margin-left:450px;
+  padding-right: 100px;
+  padding-left: 100px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-bottom: 1px solid white;
+  box-shadow: 0 0 10px white;
+}
+nav a{
+  color:white;
+  text-decoration: none;
+}
+nav ul li {
+  justify-content: space-between;
+}
+
+/*
 #LogoText{
   color:rgb(255, 255, 255);
   font-weight: bold;
@@ -17,14 +57,10 @@ body{
   display: flex;
   justify-content: space-between;
   background: transparent;
-  border-radius: 15px;
   backdrop-filter: blur(15px);
   color: rgb(255, 255, 255);
-  height: 70px;
-  padding-left: 190px;
-  margin-left: 40px;
-  margin-right: 40px;
-  margin-top: 10px;
+  height: 100px;
+  margin: 0px;
 }
 .navbar h1{
   color:rgb(255, 255, 255);
@@ -46,3 +82,4 @@ nav a{
 nav a:hover{
   color:rgb(218, 218, 218);
 }
+  */
