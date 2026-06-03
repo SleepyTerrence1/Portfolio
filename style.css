@@ -1,85 +1,14 @@
-
-body{
-  font-family:sans-serif, comic sans ms;
-  background-image: url("pictures/Space1.jpg");
+* {
+  font-family: 'Roboto', 'Arial', sans-serif;;
+  margin: 0;
+  padding: 0;
+}
+body {
+  background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.3) 0%, rgba(0, 0, 0, 1) 80%) , url('pictures/Space3.jpg');
   background-size: cover;
   background-position: center;
-  background-repeat: no-repeat;
   background-attachment: fixed;
-  margin: 0px;
-  padding: 0px;
-
-}
-#LogoText{
-  color:rgb(255, 255, 255);
-  font-weight: bold;
-  margin-left:10rem;
-}
-.navbar {
-  align-items: center;
-  display: flex;
-  justify-content: space-between;
-  background: transparent;
-  backdrop-filter: blur(15px);
-  border-bottom: 1px solid white;
-  box-shadow: 0 0 10px white;
-}
-nav ul{
-  display:flex;
-  justify-content: space-between;
-  list-style: none;
-  border-radius: 30px;
-  border: 1px solid;
   color: white;
-  margin-left:450px;
-  padding-right: 100px;
-  padding-left: 100px;
-  padding-top: 10px;
-  padding-bottom: 10px;
-  border-bottom: 1px solid white;
-  box-shadow: 0 0 10px white;
+  text-align: center;
 }
-nav a{
-  color:white;
-  text-decoration: none;
 }
-nav ul li {
-  justify-content: space-between;
-}
-
-/*
-#LogoText{
-  color:rgb(255, 255, 255);
-  font-weight: bold;
-}
-.navbar{ 
-  align-items: center;
-  display: flex;
-  justify-content: space-between;
-  background: transparent;
-  backdrop-filter: blur(15px);
-  color: rgb(255, 255, 255);
-  height: 100px;
-  margin: 0px;
-}
-.navbar h1{
-  color:rgb(255, 255, 255);
-  margin-left: 10rem;
-}
-nav ul{
-  display:flex;
-  justify-content: center;
-  list-style: none;
-  margin-left: 55rem;
-}
-nav ul li{
-  margin-right: 40px;
-}
-nav a{
-  color:white;
-  text-decoration: none;
-}
-nav a:hover{
-  color:rgb(218, 218, 218);
-}
-  */
